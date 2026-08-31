@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple’s Products 中文版"
+  short_description: "生成简洁、有节奏、产品感鲜明的中文营销标题与整套文案"
+  default_prompt: "使用 $apples-products-zh 根据这份产品 brief 创作中文营销标题。"

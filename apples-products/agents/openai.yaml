@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple’s Products"
+  short_description: "Write crisp English product marketing headlines"
+  default_prompt: "Use $apples-products to create English product marketing headlines from this brief."
